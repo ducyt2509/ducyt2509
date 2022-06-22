@@ -27,7 +27,7 @@ My major is Software engineering and I was an intern for Fsoft! I have experienc
 ### Social Media : 
 
 <a href="mailto:duclee025@gmail.com"   target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="120" height="30"></a>
-<a href="facebook.com/duclee2509"   target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" width="120" height="30"></a>
+<a href="https://www.facebook.com/duclee2509"   target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" width="120" height="30"></a>
 <a href="https://www.linkedin.com/in/duc-tran-4536251a4/"   target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="120" height="30"></a>
 <a href="https://www.instagram.com/_bean25.9_/"   target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gmail" width="120" height="30"></a>
 
